@@ -2,7 +2,6 @@
 **/*.rs.bk
 Cargo.lock
 *.wasm
-.env
 *.log
 
 # Local testing scripts
@@ -28,3 +27,5 @@ compile_errors_*.txt
 # Brief and BM artifacts
 brief.md
 BM/
+config.bat
+node_modules
